@@ -1,0 +1,8 @@
+section.section1 {background-color: #FFFFCC; visibility: hidden; float: inherit;}
+
+section.section2 {background-color: #DCDCDC; visibility: hidden; float: inherit;}
+
+#taylor {padding: 5pt; float: none; height: 25%; width: 25%;}
+#biscuit {padding: 5pt; float: none; height 25%; width: 25%;}
+
+footer {float: inherit;}
